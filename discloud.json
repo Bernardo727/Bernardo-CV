@@ -1,0 +1,12 @@
+{
+  "name": "vite_react_shadcn_ts",
+  "version": "1.0.0",
+  "build": {
+    "cmd": "npm run build",
+    "artifact": "dist"
+  },
+  "deploy": {
+    "provider": "discloud",
+    "domain": "your-custom-domain.com"
+  }
+}
